@@ -4,4 +4,6 @@ Freddy tiene 32 anios y nacio en Colombia
 
 Anita Platzi tiene 41 anios y nacio en Internet.
 
+Agregaremos mas sobre anita en el transcurso del proyecto
+
 Hoy hablaremos de su historia 
